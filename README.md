@@ -9,5 +9,6 @@ Week 6 Files
 Week 7 Functions
 Week 8 Numpy
 Week 9 Image Processing
+13th Completed Prac Exam
 16th Feb Solo exam 
 19th March group project
