@@ -1,0 +1,6 @@
+name, iteration, angle, axiom, rules
+Koch Curve,4,60,F,F->F-F++F-F
+Koch Curve Variation,3,90,F-F-F-F,F->FF-F-F-F-F-F+F
+Square Sierpinski,3,90,F+XF+F+XF,X->XF-F+F-XF+F+XF-F+F-X
+Sierpinski Arrowhead,4,60,YF,X->YF+XF+Y,Y->XF-YF-X
+Hilbert,4,90,X,X->-YF+XFX+FY-,Y->+XF-YFY-FX+
