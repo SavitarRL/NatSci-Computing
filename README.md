@@ -1,25 +1,25 @@
-### NatSci-Computing
+# NatSci-Computing
 ## NSCI0007 Computing class stuff
-# Week 1 
+#### Week 1 
 Bermuda Triangle
-# Week 2 
+#### Week 2 
 Basic Arithmetic
-# Week 3 
+#### Week 3 
 Loops
-# Week 4 
+####  Week 4 
 Lists and Plotting
-# Week 5 
+####  Week 5 
 Strings
-# Week 6 
+####  Week 6 
 Files
-# Week 7 
+####  Week 7 
 Functions
-# Week 8 
+####  Week 8 
 Numpy
-#Week 9 
+#### Week 9 
 Image Processing
-# 13th Completed Prac Exam
-# 16th Feb Solo exam 
+#### 13th Completed Prac Exam
+#### 16th Feb Solo exam 
 Completed (30/30) 
-# Group project (Bird Song) [ongoing]
+#### Group project (Bird Song) [ongoing]
 Deadline: 19th March
