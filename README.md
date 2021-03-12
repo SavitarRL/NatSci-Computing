@@ -1,5 +1,5 @@
 # NatSci-Computing 
-## NSCI0007 Computing class stuff
+## NSCI0007 Computing class stuff (Now do everything in c++)
 #### Week 1 
 Bermuda Triangle
 #### Week 2 
