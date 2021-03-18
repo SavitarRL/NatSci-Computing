@@ -1,5 +1,5 @@
 # NatSci-Computing 
-## NSCI0007 Computing class stuff (Now do everything in c++)
+## NSCI0007 Computing class stuff (Now do everything in C++)
 #### Week 1 
 Bermuda Triangle
 #### Week 2 
@@ -21,5 +21,5 @@ Image Processing
 #### 13th Completed Prac Exam
 #### 16th Feb Solo exam 
 Completed (30/30) 
-#### Group project (Bird Song) [ongoing]
+#### Group project (Bird Song) [Done]
 Deadline: 19th March
